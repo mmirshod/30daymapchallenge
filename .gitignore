@@ -1,0 +1,18 @@
+# Exclude the conda environment folder
+condaenv/
+
+# Exclude IntelliJ IDEA project files
+.idea/
+
+# Exclude VS Code project files
+.vscode/
+
+# Exclude data directory
+data/
+
+# Exclude cache directory
+cache/
+
+# General system file exclusions
+.DS_Store
+Thumbs.db
